@@ -1,0 +1,19 @@
+{
+  "name": "node-shell-workshop",
+  "version": "1.0.0",
+  "description": "A workshop that takes you through the basics of doing shell scripting with node.js.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniotrkdz/Node-Shell-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin":{
+    "antoniotrkdz-cat": "lesson-1/cat.js",
+    "antoniotrkdz-ls": "lesson-1/ls.js"
+  }
+}

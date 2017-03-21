@@ -1,3 +1,10 @@
-0.1 + 0.2 === 0.3 ?
-console.log('All is cool') :
-console.log('WAT')
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Node Shell Scripting - Lesson 1</title>
+  </head>
+  <body>
+    i can has cat?
+  </body>
+</html>
